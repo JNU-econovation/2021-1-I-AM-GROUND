@@ -1,6 +1,6 @@
 # 2021-1-I-AM-GROUND
 
-### 우리 좀 더 친해져보아요! :happy:
+### 우리 좀 더 친해져보아요!
 
 ### 목표
 
@@ -72,7 +72,7 @@
 			<pre>git commit -m "commit message"</pre>
     </div>
 	</details>
-   - username.md파일은 삭제하시면 안됩니다. 
+   - **profile.md파일은 삭제하시면 안됩니다.** 
 
    - 자기소개 문서 제목은 **본인의 'GitHub아이디'**로 만들어주세요.
      - ex) mywnajsldkf.md
@@ -97,4 +97,5 @@
 
 6. PR문서에 `자기 소개` label을 달아주세요!
 
-관련자료는 [링크](https://drive.google.com/file/d/1J1_bDLeDgLadfhlU_VKxrpERjip04qF_/view?usp=sharing)를 참고해주세요!
+관련자료는 [링크](https://drive.google.com/file/d/1bJiIIs0hFZSTHRIfnYtFZRQVwu994CFk/view?usp=sharing)를 참고해주세요!
+
