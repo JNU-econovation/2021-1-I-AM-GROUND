@@ -97,4 +97,5 @@
 
 6. PR문서에 `자기 소개` label을 달아주세요!
 
-관련자료는 [링크](https://drive.google.com/file/d/1J1_bDLeDgLadfhlU_VKxrpERjip04qF_/view?usp=sharing)를 참고해주세요!
+관련자료는 [링크](https://drive.google.com/file/d/1bJiIIs0hFZSTHRIfnYtFZRQVwu994CFk/view?usp=sharing)를 참고해주세요!
+
